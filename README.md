@@ -18,6 +18,9 @@
 
 ---
 
+Telegram Channel: [@CluvexStudio](https://t.me/CluvexStudio)
+
+ ---
 ## ✨ Features
 
 ### 🎥 **Premium Video Player**
