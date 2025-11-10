@@ -8,7 +8,7 @@
 
 **A Premium Cross-Platform Movie & Series Streaming Application**
 
-[![Flutter](https://img.shields.io/badge/Flutter-3.24.5-02569B?style=flat-square&logo=flutter)](https://flutter.dev)
+[![Flutter](https://img.shields.io/badge/Flutter-3.35.0-02569B?style=flat-square&logo=flutter)](https://flutter.dev)
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=flat-square)](https://github.com)
 
@@ -127,8 +127,8 @@ sudo dnf install mpv-devel gtk3-devel
 
 ### Prerequisites
 
-- Flutter SDK 3.24.5 or higher
-- Dart SDK 3.9.2 or higher
+- Flutter SDK 3.35.0 or higher
+- Dart SDK 3.8.0 or higher
 - Git
 
 ### Clone Repository
