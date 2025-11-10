@@ -12,7 +12,7 @@
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=flat-square)](https://github.com)
 
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Build](#build-from-source) • [Contributing](#contributing)
+[Installation](#installation) • [Build](#build-from-source) • [Contributing](#contributing)
 
 </div>
 
