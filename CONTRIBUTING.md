@@ -10,7 +10,7 @@ Please be respectful and constructive in all interactions.
 
 ### Reporting Bugs
 
-1. Check if the bug has already been reported in [Issues](https://github.com/yourusername/zedmovie-desktop/issues)
+1. Check if the bug has already been reported in [Issues](https://github.com/CluvexStudio/ZedMovieDesktop/issues)
 2. If not, create a new issue with:
    - Clear title and description
    - Steps to reproduce
@@ -53,7 +53,7 @@ Please be respectful and constructive in all interactions.
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/zedmovie-desktop.git
+git clone https://github.com/CluvexStudio/ZedMovieDesktop.git
 
 # Install dependencies
 flutter pub get
