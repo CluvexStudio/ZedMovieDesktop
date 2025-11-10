@@ -87,10 +87,6 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
-  # To add assets to your application, add an assets section, like this:
-  assets:
-    - assets/
-
 flutter_launcher_icons:
   image_path: "ZedMovieDesktop.png"
   windows:
